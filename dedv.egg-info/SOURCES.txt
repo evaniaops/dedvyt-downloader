@@ -1,0 +1,17 @@
+README.md
+setup.cfg
+setup.py
+dedv.egg-info/PKG-INFO
+dedv.egg-info/SOURCES.txt
+dedv.egg-info/dependency_links.txt
+dedv.egg-info/entry_points.txt
+dedv.egg-info/requires.txt
+dedv.egg-info/top_level.txt
+dv/__init__.py
+dv/dummy.py
+dv/dv.py
+dv/ifinal.py
+dv/itsext.py
+dv/questions.py
+dv/version.py
+dv/yt.py

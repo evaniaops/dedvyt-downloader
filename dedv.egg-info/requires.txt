@@ -1,0 +1,12 @@
+youtube-dl
+prompt_toolkit==1.0.14
+PyInquirer
+regex
+youtube-search-python
+pyperclip
+pyfiglet
+halo
+click
+rich
+humanfriendly
+pafy
